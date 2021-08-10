@@ -1,2 +1,2 @@
-![](https://s.zceme.cn/fed/cover-v.jpg)
+## vue-nuxt demo
 
